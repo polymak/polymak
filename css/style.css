@@ -1,0 +1,147 @@
+.background1 {
+background-image: url(../img/banner1.jpg);
+padding: 0em 0;
+}
+
+.display-4 {
+margin-top: 50px;
+ color: #ffffff;
+text-align: center;
+font-size: 30px;
+}
+
+.menuheader {
+padding: 2em 0; 
+}
+
+.logosite {
+padding: 2em 0; 
+}
+
+.rounded1 {
+border-radius: 2000px;
+}
+
+.space1 {
+    margin-top: 70px;
+}
+
+.colortextimg {
+color:#ffffff;
+padding-left: 50px;
+}
+
+.aligntext {
+text-align: center;
+}
+
+.titleservice {
+padding: 2em 0;
+background-color: crimson;
+color: #ffffff;
+}
+
+.space3 {
+    padding: 1em 0;
+    background-color: crimson;
+    color: #ffffff;
+}
+
+.centerposition {
+text-align: center;
+font-size: 20px;
+}
+
+.space5 {
+padding: 3em 0;
+background: #201919;
+color: #ffffff;
+}
+
+.space-avance {
+    margin-left: 50px;
+    margin-right: 45px;
+    }
+
+.space6 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.footul {
+list-style: none;
+}
+
+.footer {
+padding: 2em 0;
+background: #201919;
+color: #ffffff;
+}
+
+.copyright {
+    padding: 1em 0;
+    background: #2e639f;
+    color: #ffffff;
+    text-align: center;
+    }
+.titlepolymak {
+    color: yellow; 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border:solid;
+    }
+
+.mycontact {
+padding: 4em 0;
+background-color:#ffffff;
+    }
+
+.display-1 {
+text-align: center;
+font-size: 30px;
+color: #ffffff;
+
+    }
+
+.space10 {
+padding: 2em 0;
+    }
+
+.space11 {
+    margin-left: 50px;
+    margin-right: 50px;
+
+    }
+
+.aok {
+    color: #ffffff; 
+    }
+
+.center1 {
+    text-align: center;
+    margin-top: 40px;
+    }
+
+.colorlink {
+    color: red; 
+    }
+
+.supp {
+    text-decoration-color: none;
+    color: yellow;
+    padding-right: 25px;
+    }
+a {
+    color: yellow;
+    text-decoration: none;
+    text-decoration-color: none;
+}
+
+.very {
+    padding: 5em 0;
+}
+
+.ctact {
+    color:blue;
+}
+
